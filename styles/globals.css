@@ -1,0 +1,30 @@
+body {
+
+  background: url('/img/all/bg2.jpg');
+ 
+}
+nav {
+  z-index: 100;
+}
+
+.image-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+  }
+  .image {
+    objectFit: cover;
+  }
+
+  section {
+    background: url('/img/all/bg1.jpg');
+    height: 500px;
+  }
+  h1 {
+    color: aliceblue;
+  }
+
+  p {
+    color: aliceblue;
+  }
